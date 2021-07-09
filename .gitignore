@@ -1,0 +1,14 @@
+bin/*
+!bin/.keep
+
+lst/*
+!lst/.keep
+
+*.map
+*.lss
+*.o
+*.c.d
+*.s.d
+
+prj/*.sublime-workspace
+prj/*.jdebug.user
